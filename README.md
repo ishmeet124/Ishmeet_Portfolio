@@ -352,9 +352,9 @@ I'm open to opportunities in:
 ### Connect With Me
 
 - **Portfolio:** YOUR_PORTFOLIO_URL
-- **GitHub:** YOUR_GITHUB_URL
-- **LinkedIn:** YOUR_LINKEDIN_URL
-- **Email:** YOUR_EMAIL
+- **GitHub:** https://github.com/ishmeet124
+- **LinkedIn:** https://www.linkedin.com/in/ishmeet-singh-8826b42a0/
+- **Email:** ishmeetsinghw006@gmail.com
 
 ---
 
